@@ -1,7 +1,7 @@
 # css
 * **Install Bot**
 `````sh
-git clone https://github.com/botiiing/css.git && cd css && chmod +x bot && ./bot install
+git clone https://github.com/csnoobir/css.git && cd css && chmod +x bot && ./bot install
 
 ./bot create
 
