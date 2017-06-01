@@ -12,5 +12,8 @@ git clone https://github.com/botiiing/css.git && cd css && chmod +x bot && ./bot
 cd css && ./bot 1
 
 ***********
+# دستور لانچ خودکار
+cd css
+screen ./bot autolaunch
 `````
 @userinfobot
