@@ -1,5 +1,5 @@
 # css
-# دستورات نصب
+#دستورات نصب
 git clone https://github.com/botiiing/css.git && cd css && chmod +x bot && ./bot install
 
 ./bot create
